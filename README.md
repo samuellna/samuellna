@@ -2,7 +2,7 @@
 
 💻 I’m a computer engineering student at UFPE.
 
-I'm currently learning these languages:
+I'm currently learning these programming languages:
 <div style="display:inline-block">
   <img align="center" alt="c_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="cplusplus_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
