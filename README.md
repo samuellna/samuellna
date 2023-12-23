@@ -1,4 +1,4 @@
-## Hi, i'm Samuel and welcome to my profile!
+## Hi, i'm Samuel, welcome to my profile!
 
 💻 I’m a computer engineering student at UFPE.
 
