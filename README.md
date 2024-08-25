@@ -1,13 +1,14 @@
-## Hi, i'm Samuel, welcome to my profile!
+# Hi, i'm Samuel, welcome to my profile!
 
-💻 I’m a computer engineering student at UFPE.
+💻 I’m a computer engineering student at UFPE and Developer at CITi.
 
-I'm currently learning these programming languages:
+## As a developer, i have experience with:
 <div style="display:inline-block">
-  <img align="center" alt="c_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="cplusplus_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="python_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="js_icon" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="ts_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="react_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+  <img align="center" alt="docker_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img align="center" alt="js_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="nodejs_icon" height=50 width=60  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ## Find me on: 
