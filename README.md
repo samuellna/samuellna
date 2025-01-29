@@ -2,7 +2,7 @@
 
 💻 I’m a computer engineering student at UFPE and Developer at CITi.
 
-## As a developer, i have experience with:
+## As a developer, i have some experience with:
 <div style="display:inline-block">
   <img align="center" alt="ts_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="react_icon" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
